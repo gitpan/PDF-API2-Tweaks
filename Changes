@@ -1,5 +1,9 @@
 Revision history for PDF-API2-Tweaks
 
+0.09	Sun Dec 28 10:09:30 2014 +0100
+
+	Fix depency list in Makefile.PL.
+
 0.08	Wed Sep 3 21:01:56 2014 +0200
 
 	Rewrite documenting comments as POD.
